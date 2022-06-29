@@ -1,0 +1,4 @@
+#Wed Jun 29 22:46:45 IST 2022
+base.0=/Users/triophoretechnologies/Desktop/BMI/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
